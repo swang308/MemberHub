@@ -1,5 +1,5 @@
 # MemberMaster
-**MemberMaster** is a robust membership management microservice that provides REST APIs integrated with AWS services for seamless and scalable user management.
+A membership management microservice with REST APIs powered by Amazon Web Services.
 
 ## Link to folder
 - [fragments](https://github.com/swang308/fragments)
